@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Philip Ekalale
 
-I'm a passionate **Full-Stack Developer** who loves building web apps and exploring new technologies.  
+I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves building web apps, creating beautiful designs, and exploring new technologies.
 
 I enjoy working on real-world projects, improving my skills, and contributing to open-source.
 
 ---
+
 
 ## 🚀 Tech Stack
 
@@ -60,15 +61,12 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 - System Design fundamentals  
 - Full-stack project scaling
 
----## 📊 GitHub Stats
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EKALALE&theme=radical)
 
-### 📦 GitHub Stats Card
 ![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=EKALALE&show_icons=true&theme=radical)
 
-### 🧠 Top Languages (Stable Version)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EKALALE&layout=compact&theme=radical&langs_count=6)
 
 ---
