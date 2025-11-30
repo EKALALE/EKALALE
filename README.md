@@ -63,14 +63,12 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ---
 
 ## 📊 GitHub Stats
+![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=EKALALE&show_icons=true&theme=radical)
 
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EKALALE&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EKALALE&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
----
 
 ## 📫 Connect with Me
 - **Email:** philipekalale07@gmail.com  
