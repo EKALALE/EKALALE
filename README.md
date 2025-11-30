@@ -26,10 +26,11 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎨 Graphic Design
+![Photopea](https://img.shields.io/badge/Photopea-000000?style=for-the-badge&logo=photopea&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 
 ### **Tools & Others**
@@ -75,8 +76,8 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 - **Email:** philipekalale07@gmail.com  
 - **LinkedIn:** [linkedin.com/in/philip-ekalale](https://www.linkedin.com/in/philip-ekalale-05940b32b)
 
-- **Portfolio: (https://ekalalesportfolio.vercel.app/)
-- ** Phone_Number:+254701658447
+- **Portfolio:** (https://ekalalesportfolio.vercel.app/)
+- ** Phone_Number:**+254701658447
 ---
 
 ⭐️ _Thanks for visiting my profile! Check out my repositories and leave a star if you like my work!_
