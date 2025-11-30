@@ -77,7 +77,7 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 - **LinkedIn:** [linkedin.com/in/philip-ekalale](https://www.linkedin.com/in/philip-ekalale-05940b32b)
 
 - **Portfolio:** (https://ekalalesportfolio.vercel.app/)
-- ** Phone Number:**+254701658447
+- **Phone Number:**+254701658447
 ---
 
 ⭐️ _Thanks for visiting my profile! Check out my repositories and leave a star if you like my work!_
