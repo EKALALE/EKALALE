@@ -5,8 +5,6 @@ I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves bui
 I enjoy working on real-world projects, improving my skills, and contributing to open-source.
 
 ---
-
-
 ## 🚀 Tech Stack
 
 ### **Frontend**
@@ -22,6 +20,11 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -31,8 +34,6 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
 
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +45,7 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ---
 
 ## 🛠 Projects
-- **BudgetEase** – Expense & budget tracker (React, Express.js, MongoDB)  
+- **PesaGuard** – Expense & budget tracker (React, Express.js, MongoDB)  
 - **E-commerce System** – Full stack app with HTML, CSS, JS, PHP, MySQL  
 - **Capstone App** – React + Tailwind (Footer & Contact Form sections)
 - ### 🖌 Graphic Design Projects
