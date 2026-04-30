@@ -45,7 +45,9 @@ I enjoy working on real-world projects, improving my skills, and contributing to
 ---
 
 ## 🛠 Projects
-- **PesaGuard** – Expense & budget tracker (React, Express.js, MongoDB)  
+- **PesaGuard** – Expense & budget tracker (React, Express.js, MongoDB)
+- **UlinziTracker** - A community safety application where people report incidents and police respond immediately ( Django , html,css, bootstrap, SQlite)
+- **KUTSA** - Students Association website where students interact, registered and access resources ( Django,html,css,js, bootstrap, postgresql)
 - **E-commerce System** – Full stack app with HTML, CSS, JS, PHP, MySQL  
 - **Capstone App** – React + Tailwind (Footer & Contact Form sections)
 - ### 🖌 Graphic Design Projects
